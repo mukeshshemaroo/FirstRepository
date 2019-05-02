@@ -5,6 +5,7 @@ Created First Repository on Github to explore
 	- git init
 	- git remote add origin "Path of Repository from Github"
 	- git pull origin master
+	- git status
 
 
 => Steps Followed to work with Git Repository
@@ -15,7 +16,8 @@ Created First Repository on Github to explore
 	- git init command on Git Bash to create local repository
 	- git remote add origin "Path of FirstRepository from Github" command to link remote/centralized repository to local repository
 	- git pull origin master command to get the latest files from remote/centralized repository to local repository
-
+	- git status command to check status of the file in the current branch
+	
 
 
 => ProjAddtoSourceControlWithCreate
@@ -23,4 +25,4 @@ Created First Repository on Github to explore
 
 => ProjFromDirectVS
 	- Created Local Git Repository via Add to Source Control on right bottom after creating new project
-	- Team Explorer -> Manage Connections -> 
+	- Team Explorer -> Manage Connections -> Sync -> Provided empty repository and Github credentials to push all commits to github
