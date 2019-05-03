@@ -21,8 +21,9 @@ Created First Repository on Github to explore
 	- git add -A(For all files)/<FileName> command to add to staging/index after adding/modifying the file
 	- git commit -a(For all files) -m <"Message"> command to commit to local repository for all files in staging/index
 	- Added new text file.
-	- git commit -a -m <"Commit all but one new file not staged/indexed"> command did not commit the untracked file. However no error was thrown.
-	- git commit -m <"Message"> command worked when all the files were staged
+	- git commit -a -m <"Commit all but one new file not staged/indexed"> command commits all the modified files (at least staged once) but does not commit the untracked file. However no error is thrown.
+	- git commit -m <"Message"> command works when all the files are staged after modification by command - git add -A
+	
 
 => ProjAddtoSourceControlWithCreate
 	- Create New Git Repository option not displayed; Displayed Add to Source Control instead; On projectcreation displayed VSS login (May be because VSS was installed)
