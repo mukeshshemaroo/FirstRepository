@@ -6,6 +6,7 @@ Created First Repository on Github to explore
 	- git remote add origin "Path of Repository from Github"
 	- git pull origin master
 	- git status
+	- git add -A(For all files)/<FileName>
 
 
 => Steps Followed to work with Git Repository
@@ -17,7 +18,8 @@ Created First Repository on Github to explore
 	- git remote add origin "Path of FirstRepository from Github" command to link remote/centralized repository to local repository
 	- git pull origin master command to get the latest files from remote/centralized repository to local repository
 	- git status command to check status of the file in the current branch
-	
+	- git add -A(For all files)/<FileName> command to add to staging/index after adding/modifying the file
+	- git commit -a(For all files) -m <"Message"> command to commit to local repository after adding to staging/index after adding/modifying the file
 
 
 => ProjAddtoSourceControlWithCreate
