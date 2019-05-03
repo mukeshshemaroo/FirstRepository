@@ -22,7 +22,7 @@ Created First Repository on Github to explore
 	- git commit -a(For all files) -m <"Message"> command to commit to local repository for all files in staging/index
 	- Added new text file.
 	- git commit -a -m <"Commit all but one new file not added in staging/index"> command did not commit the untracked file. However no error was thrown.
-	
+	- git commit -m <"">
 
 => ProjAddtoSourceControlWithCreate
 	- Create New Git Repository option not displayed; Displayed Add to Source Control instead; On projectcreation displayed VSS login (May be because VSS was installed)
