@@ -19,7 +19,7 @@ Created First Repository on Github to explore
 	- git pull origin master command to get the latest files from remote/centralized repository to local repository
 	- git status command to check status of the file in the current branch
 	- git add -A(For all files)/<FileName> command to add to staging/index after adding/modifying the file
-	- git commit -a(For all files) -m <"Message"> command to commit to local repository after adding to staging/index after adding/modifying the file
+	- git commit -a(For all files) -m <"Message"> command to commit to local repository for all files in staging/index
 
 
 => ProjAddtoSourceControlWithCreate
