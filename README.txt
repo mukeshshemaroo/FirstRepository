@@ -7,6 +7,9 @@ Created First Repository on Github to explore
 	- git pull origin master
 	- git status
 	- git add -A(For all files)/<FileName>
+	- git commit -a -m <"Message">
+	- git commit -m <"Message"> after git add -Add
+	
 
 
 => Steps Followed to work with Git Repository
