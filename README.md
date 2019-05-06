@@ -5,7 +5,7 @@ Created First Repository on Github to explore
 	- git init
 	- git remote add origin "Path of Repository from Github"
 	- git pull origin master
-
+	- git commit -m <"Message"> after git add -Add
 
 => Steps Followed to work with Git Repository
 	- Created an account on https://github.com
