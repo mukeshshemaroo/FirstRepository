@@ -9,8 +9,6 @@ Created First Repository on Github to explore
 	- git add -A(For all files)/<FileName>
 	- git commit -a -m <"Message">
 	- git commit -m <"Message"> after git add -Add
-	
-
 
 => Steps Followed to work with Git Repository
 	- Created an account on https://github.com
