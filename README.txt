@@ -9,8 +9,6 @@ Created First Repository on Github to explore
 	- git add -A(For all files)/<FileName>
 	- git commit -a -m <"Message">
 	- git commit -m <"Message"> after git add -Add
-	
-
 
 => Steps Followed to work with Git Repository
 	- Created an account on https://github.com
@@ -26,8 +24,8 @@ Created First Repository on Github to explore
 	- Added new text file.
 	- git commit -a -m <"Commit all but one new file not staged/indexed"> command commits all the modified files (at least staged once) but does not commit the untracked file. However no error is thrown.
 	- git commit -m <"Message"> command works when all the files are staged after modification by command - git add -A
-	- 
-
+	- Added one line on centralized repository to cause conflict in this file due to working of various users simultaneously and will be merged
+	
 => ProjAddtoSourceControlWithCreate
 	- Create New Git Repository option not displayed; Displayed Add to Source Control instead; On projectcreation displayed VSS login (May be because VSS was installed)
 
